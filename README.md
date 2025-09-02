@@ -58,13 +58,13 @@
 **데이터 수집 확인 스크린샷:**
 
 ### 1. 브라우저 콘솔 로그
-![브라우저 콘솔에 기록된 이벤트](images/console_log.jpg)
+![브라우저 콘솔에 기록된 이벤트](public/images/console_log.jpg)
 
 ### 2. 네트워크 탭 요청
-![네트워크 탭에서 Supabase로 전송된 요청](images/network_request.jpg)
+![네트워크 탭에서 Supabase로 전송된 요청](public/images/network_request.jpg)
 
 ### 3. Supabase 프로젝트 로그
-![Supabase 대시보드에 기록된 user_actions 테이블](images/supabase_logs.jpg)
+![Supabase 대시보드에 기록된 user_actions 테이블](public/images/supabase_logs.jpg)
 
 ## 배포된 웹 링크
 
